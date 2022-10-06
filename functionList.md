@@ -1,3 +1,5 @@
+_KitcheNFT Functions_
+
 1. **Create Collection**
 
 - Create collection with collection name, banner, logo image etc.
